@@ -16,7 +16,8 @@ public class Stratego
     public Stratego()
     {
         // initialise instance variables
-        x = 0;
+                //made change
+        
     }
 
     /**
